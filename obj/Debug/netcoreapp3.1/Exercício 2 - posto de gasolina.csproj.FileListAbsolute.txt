@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\bin\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.exe
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\bin\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.deps.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\bin\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\bin\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\bin\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\bin\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\obj\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\obj\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\obj\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\obj\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\obj\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\obj\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 2 - posto de gasolina\obj\Debug\netcoreapp3.1\Exercício 2 - posto de gasolina.genruntimeconfig.cache
